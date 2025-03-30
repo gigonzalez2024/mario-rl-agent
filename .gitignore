@@ -1,0 +1,17 @@
+# Ignore model checkpoints
+checkpoints/
+*.chkpt
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# VS Code settings
+.vscode/
+
+# Environment files
+*.env
+.env
+
+# OS files
+.DS_Store
